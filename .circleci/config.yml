@@ -1,8 +1,2 @@
 
 version: 2.1
-jobs:
-  test1:
-workflows:
-  e2e-test:
-    jobs:
-      - test1
